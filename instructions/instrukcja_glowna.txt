@@ -1,0 +1,27 @@
+Instrukcja do zadania - Task switching 
+Dzień dobry! W tym badaniu Twoim zadaniem jest identyfikacja koloru lub kształtu prezentowanego bodźca wzrokowego. Istotny jest jak czas reakcji, tak i poprawność udzielonej odpowiedzi. 
+
+Zadanie “Kolor” 
+Gdy masz zadanie rozpoznawania koloru, powinieneś rozpoznać kolor obiektu i nacisnąć odpowiedni klawisz:
+Klawisz D (lewą ręką) - zielony kolor; 
+klawisz K (prawą ręką) - niebieski kolor. 
+
+
+Zadanie “Kształt”
+Gdy masz zadanie z rozpoznawania kształtu, powinieneś rozpoznać kształt obiektu i nacisnąć odpowiedni klawisz: 
+Klawisz D (lewą ręką) - koło;
+klawisz K (prawą ręką) - kwadrat.
+
+
+Zadanie mieszane 
+W niektórych częściach eksperymentu, na początku będzie wyświetlać się wskazówka, która poinformuje Cię, jaką cechę należy w danym momencie zidentyfikować: 
+Wskazówka “Kolor” - rozpoznaj kolor obiektu i naciśnij odpowiedni klawisz, ignorując kształt. 
+Wskazówka “Kształt” - rozpoznaj kształt obiektu i naciśnij odpowiedni klawisz, ignorując kolor. 
+
+
+Dodatkowa informacja: 
+1. Na początku będziesz miał sesje treningowe, które pozwolą Ci przećwiczyć zadanie, po czym nastąpi sesja eksperymentalna.
+2.  Podczas sesji treningowej po każdej odpowiedzi lub wyczerpaniu czasu przeznaczonego na odpowiedź, będzie wyświetlać się informacja zwrotna. Zobaczysz znacznik wyboru w przypadku odpowiedzi poprawnej lub krzyżyk w przypadku odpowiedzi błędnej. 
+3. Masz odpowiadać jak najszybciej, na udzielenie odpowiedzi masz 1500 ms (1,5 s).
+
+Naciśnij SPACJĘ, aby rozpocząć.

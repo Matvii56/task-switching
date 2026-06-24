@@ -1,0 +1,5 @@
+Część treningowa - KOLOR.
+Zadaniem użytkownika jest tylko identyfikacja koloru i naciśnięcie odpowiedniego klawisza:
+D - zielony
+K - niebieski
+Naciśnij SPACJĘ, żeby kontynuować.

@@ -1,0 +1,5 @@
+Część eksperymentalna - ZADANIE MIESZANE.
+Zasady pozostają te same. Zniknie informacja zwrotna.
+D - zielony, koło
+K - niebieski, kwadrat
+Naciśnij SPACJĘ, żeby kontynuować.
