@@ -1,0 +1,53 @@
+---
+screen_size: [1024,768]
+fullscr: False
+screen_color: 'black'
+unit: "pix"
+checkTiming: False
+
+circle_color_1: '#44EDFF'
+circle_radius_1: 60
+circle_color_2: '#00cb15'
+circle_radius_2: 60
+
+square_size_1: 120
+square_color_1: '#44EDFF'
+square_size_2: 120
+square_color_2: '#00cb15'
+
+fixation_point_color: "white"
+fixation_point_height: 20
+
+cue_bg_width: 200
+cue_bg_height: 80
+cue_bg_fillColor: '#DEDEDE'
+cue_bg_lineColor: '#B0B0B0'
+cue_bg_lineWidth: 6
+
+cue_text_color_text_color: "black"
+cue_text_color_height: 32
+cue_text_color_isBold: Yes
+
+cue_text_shape_text_color: "black"
+cue_text_shape_height: 32
+cue_text_shape_isBold: Yes
+
+key_1: "d"
+key_2: "k"
+
+feedback_correct_color: "grey"
+feedback_correct_height: 100
+
+feedback_incorrect_color: "grey"
+feedback_incorrect_height: 100
+
+feedback_timeout_color: "grey"
+feedback_timeout_height: 40
+
+reaction_time: 1500
+cue_time:  600
+
+single_training_n: 5
+single_trial_n: 25
+mixed_training_n: 15
+mixed_trial_n: 125
